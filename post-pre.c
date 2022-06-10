@@ -5,10 +5,6 @@
 #include<math.h>
 #include<stdlib.h>
 
-#define BLANK ' '
-#define TAB '\t'
-#define MAX 50
-
 char *pop();
 char prefix[MAX];
 char stack[MAX][MAX];
